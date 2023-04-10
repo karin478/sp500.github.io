@@ -1,3 +1,4 @@
 [submodule "website/my-website1"]
     path = website/my-website1
-    url = submodule-url
+    url = https://github.com/karin478/sp500.github.io.git
+
