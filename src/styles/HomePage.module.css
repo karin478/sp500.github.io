@@ -1,0 +1,7 @@
+/* HomePage.module.css */
+.home {
+    max-height: calc(100vh - /* Adjust for navbar height */ 3rem);
+    overflow-y: auto;
+    padding: 1rem;
+  }
+  

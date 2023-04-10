@@ -1,0 +1,30 @@
+/* NavigationBar.module.css */
+nav {
+    background-color: #333;
+    padding: 1rem 0;
+  }
+  
+  ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    margin: 0 1rem;
+  }
+  
+  a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.1rem;
+    transition: color 0.2s;
+  }
+  
+  a:hover,
+  a.active {
+    color: #f05454;
+  }
+  
