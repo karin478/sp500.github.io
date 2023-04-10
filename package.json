@@ -13,7 +13,7 @@
     "recharts": "^2.5.0",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://karin478.github.io/sp500_prediction.github.io/",
+  "homepage": "https://karin478.github.io/sp500.github.io/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
