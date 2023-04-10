@@ -8,7 +8,7 @@ import LoginPage from './pages/LoginPage';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/sp500.github.io">
       <div>
         <NavigationBar />
         <Routes>
